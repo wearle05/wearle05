@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Simon Game](/sample_page)
-<img src="images/SimonSays.jpg"/>
+<img src="images/SimonSays.png"/>
 
 ---
 [Drum Kit](/pdf/sample_presentation.pdf)
-<img src="images/DrumKit.jpg?raw=true"/>
+<img src="images/DrumKit.png?raw=true"/>
 
 ---
 [Dicee Game](http://example.com/)
-<img src="images/DiceeGame.jpg?raw=true"/>
+<img src="images/DiceeGame.png?raw=true"/>
 
 ---
 
