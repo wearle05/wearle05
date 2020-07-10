@@ -8,11 +8,11 @@
 <img src="images/SimonSays.png"/>
 
 ---
-[Drum Kit](/pdf/sample_presentation.pdf)
+[Drum Kit](https://wearle05.github.io/DrumKit/)
 <img src="images/DrumKit.png?raw=true"/>
 
 ---
-[Dicee Game](http://example.com/)
+[Dicee Game](https://wearle05.github.io/DiceeChal/)
 <img src="images/DiceeChallenge.png?raw=true"/>
 
 ---
@@ -20,7 +20,7 @@
 ### Other Projects
 
 - [HTML Personal Site](https://wearle05.github.io/CV/)
-- [CSS - My Site](http://example.com/)
+- [CSS - My Site](https://wearle05.github.io/CSSMySite/)
 - [Startup Website](https://wearle05.github.io/ubebunbuntest/)
 
 ---
