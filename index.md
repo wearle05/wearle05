@@ -4,7 +4,7 @@
 
 ### Highlighted Projects 
 
-[Simon Game](/sample_page)
+[Simon Game](https://wearle05.github.io/Simon/)
 <img src="images/SimonSays.png"/>
 
 ---
@@ -19,9 +19,9 @@
 
 ### Other Projects
 
-- [HTML Personal Site](http://example.com/)
+- [HTML Personal Site](https://wearle05.github.io/CV/)
 - [CSS - My Site](http://example.com/)
-- [Startup Website](http://example.com/)
+- [Startup Website](https://wearle05.github.io/ubebunbuntest/)
 
 ---
 
