@@ -13,7 +13,7 @@
 
 ---
 [Dicee Game](http://example.com/)
-<img src="images/DiceeGame.png?raw=true"/>
+<img src="images/DiceeChallenge.png?raw=true"/>
 
 ---
 
