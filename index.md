@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Highlighted Projects 
 
 [Simon Game](/sample_page)
 <img src="images/SimonSays.png"/>
@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [HTML Personal Site](http://example.com/)
+- [CSS - My Site](http://example.com/)
+- [Startup Website](http://example.com/)
 
 ---
 
